@@ -1,0 +1,12 @@
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\bin\Debug\AppHW.exe.config
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\bin\Debug\AppHW.exe
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\bin\Debug\AppHW.pdb
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.csproj.SuggestedBindingRedirects.cache
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\WinAdoKomutlarDevam.frmAdoCrud.resources
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\WinAdoKomutlarDevam.frmDelete.resources
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.exe
+C:\Users\alper\OneDrive\Masaüstü\MvcApiHomework-main\AppHW\obj\Debug\AppHW.pdb
